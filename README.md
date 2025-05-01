@@ -1,2 +1,3 @@
 # Hosptality-domain-Power-BI
-A Power BI dashboard on hospitality domain
+This Dashboard focuses on hospitality domain. I have visualized the key mterics of hotel industry like Revenue, RevPar, DSRN, Occupancy and realisation %. You can filter data on room types and city to see various insights. The project will deriving impactful bussiness decisions in hotel industry.
+
